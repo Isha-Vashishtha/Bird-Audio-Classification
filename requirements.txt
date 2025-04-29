@@ -1,0 +1,6 @@
+aiofiles
+aiohttp
+setuptools
+librosa
+matplotlib
+streamlit
